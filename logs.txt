@@ -1,5 +1,0 @@
-commit fd0311da9ba6579936a195fea3009ac120c22d74
-Author: Alcy dos santos <alcysantos12314@hotmail.com>
-Date:   Wed Dec 24 15:39:50 2025 -0300
-
-    projeto-game-alura
